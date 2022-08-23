@@ -666,7 +666,7 @@ textarea {
 
 .menu-accueil-container .menu .menu-item {
   list-style-type: none;
-  margin: 50px;
+  margin: 0px;
   padding: auto;
   border: 10px solid #aaa;
   width: 22%;
